@@ -14,11 +14,3 @@ $ cd react-button-ex
 $ yarn
 $ yarn start
 ```
-
-## Credits
-
-I owe thanks to many people for the MERN stack skills I have acquired over the past several years and couldn't mention them all.
-
-- Mark Erikson, https://blog.isquaredsoftware.com/
-
-
